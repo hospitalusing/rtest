@@ -1,7 +1,7 @@
 # Traditional Conjoint Analysis
 
 #  user-defined function for spine chart
-load(file="mtpa_spine_chart.Rdata")#??????????????????????
+load(file="mtpa_spine_chart.Rdata")
 
 # spine chart accommodates up to 45 part-worths on one page
 # |part-worth| <= 40 can be plotted directly on the spine chart
