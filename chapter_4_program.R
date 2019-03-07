@@ -1,5 +1,5 @@
 # Association Rules for Market Basket Analysis
-
+20190307
 library(arules)  # association rules
 library(arulesViz)  # data visualization of association rules
 library(RColorBrewer)  # color palettes for plots
